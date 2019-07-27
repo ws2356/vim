@@ -1,0 +1,14 @@
+#/^OBJS
+#j
+#:.,/^$/-1!sort
+## filter op can be repeated using .
+OBJS = \
+                version.o \
+                pch.o \
+                getopt.o \
+                util.o \
+                getopt1.o \
+                inp.o \
+                patch.o \
+                backup.o
+
