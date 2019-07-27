@@ -1,0 +1,20 @@
+#:global/^/m 0
+#
+#Abbreviated:
+#
+#        :g/^/m 0
+# lines generated with - 9G:.,$s/^/\=printf('line: %d', line('.'))
+# 9G:.,$g/^/m 8
+
+line: 18
+line: 17
+line: 16
+line: 15
+line: 14
+line: 13
+line: 12
+line: 11
+line: 10
+line: 9
+line: 8
+line: 7
